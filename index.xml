@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>RGNet: A Unified Retrieval and Grounding Network for Long Videos</title>
+      <link>https://example.com/publication/rgnet/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/rgnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GRAtt-VIS: Gated Residual Attention for Auto Rectifying Video Instance Segmentation</title>
       <link>https://example.com/publication/grattvis/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
@@ -256,7 +264,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-927851346&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-573461289&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -266,7 +274,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-927851346&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-573461289&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
