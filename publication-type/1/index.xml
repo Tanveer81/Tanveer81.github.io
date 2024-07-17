@@ -5,12 +5,36 @@
     <link>https://example.com/publication-type/1/</link>
       <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://example.com/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>RGNet: A Unified Retrieval and Grounding Network for Long Videos</title>
+      <link>https://example.com/publication/rgnet/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/rgnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context Matters: Leveraging Spatiotemporal Metadata for Semi-Supervised Learning on Remote Sensing Images </title>
+      <link>https://example.com/publication/context/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/context/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GRAtt-VIS: Gated Residual Attention for Auto Rectifying Video Instance Segmentation</title>
+      <link>https://example.com/publication/grattvis/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/grattvis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>InstanceFormer: An Online Video Instance Segmentation Framework</title>

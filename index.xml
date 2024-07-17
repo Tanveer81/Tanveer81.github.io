@@ -13,6 +13,27 @@
     </image>
     
     <item>
+      <title>Recent News</title>
+      <link>https://example.com/home/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/home/news/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;[Jul ‘24] Joined &lt;a href=&#34;https://huaweiresearchcentergermanyaustria.teamtailor.com/departments/trustworthy-technology-and-engineering-laboratory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huawei&lt;/a&gt; as a Research Scientist Intern.&lt;/li&gt;
+&lt;li&gt;[Jul ‘24] One paper (&lt;a href=&#34;https://arxiv.org/abs/2208.10547&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Context Matters&lt;/a&gt;) accepted to &lt;a href=&#34;https://www.ecai2024.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECAI 2024&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;[Jul ‘24] One paper (&lt;a href=&#34;https://arxiv.org/abs/2312.06729&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RGNet&lt;/a&gt;) accepted to &lt;a href=&#34;https://eccv.ecva.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECCV 2024&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;[Jun ‘24] One paper (&lt;a href=&#34;https://arxiv.org/abs/2305.17096&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GRAtt-VIS&lt;/a&gt;) accepted to &lt;a href=&#34;https://icpr2024.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICPR 2024&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;[Nov ‘22] One paper (&lt;a href=&#34;https://arxiv.org/abs/2208.10547&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;InstanceFormer&lt;/a&gt;) accepted to &lt;a href=&#34;https://aaai-23.aaai.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAAI 2023&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;[Feb ‘22] Joined &lt;a href=&#34;https://www.lmu.de/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LMU Munich&lt;/a&gt; as a PhD student.&lt;/li&gt;
+&lt;li&gt;[Nov ‘22] One paper (&lt;a href=&#34;https://arxiv.org/abs/2208.10547&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BoxVOS&lt;/a&gt;) accepted to &lt;a href=&#34;https://iprcs.github.io/IMVIP.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IMVIP 2022&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;[Mar ‘22] One paper (&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-981-19-6634-7_28&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COVID-DenseNet&lt;/a&gt;) accepted to &lt;a href=&#34;https://www.icdsa22.scrs.in/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICDSA 2022&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;[Nov ‘21] One paper (&lt;a href=&#34;https://iopscience.iop.org/article/10.3847/1538-4357/ac1b30&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prediction Proton Intensities&lt;/a&gt;) accepted to &lt;a href=&#34;https://iopscience.iop.org/journal/0004-637X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Astrophysical Journal&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;[Jul ‘21] Joined &lt;a href=&#34;https://analytics.hensoldt.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hensoldt Analytics&lt;/a&gt; as a Research Intern.&lt;/li&gt;
+&lt;li&gt;[Oct ‘20] Joined &lt;a href=&#34;https://mcml.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Munich Center For Machine Learning (MCML)&lt;/a&gt; as a Research Intern.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>https://example.com/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
@@ -35,8 +56,16 @@
     <item>
       <title>RGNet: A Unified Retrieval and Grounding Network for Long Videos</title>
       <link>https://example.com/publication/rgnet/</link>
-      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/rgnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context Matters: Leveraging Spatiotemporal Metadata for Semi-Supervised Learning on Remote Sensing Images </title>
+      <link>https://example.com/publication/context/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/context/</guid>
       <description></description>
     </item>
     
@@ -264,7 +293,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-657831924&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-657841239&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -274,7 +303,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-657831924&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-657841239&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
