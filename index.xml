@@ -54,6 +54,14 @@
     </item>
     
     <item>
+      <title>ReVisionLLM: Recursive Vision-Language Model for Temporal Grounding in Hour-Long Videos</title>
+      <link>https://example.com/publication/revisionllm/</link>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/revisionllm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>RGNet: A Unified Retrieval and Grounding Network for Long Videos</title>
       <link>https://example.com/publication/rgnet/</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
@@ -293,7 +301,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-657841239&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-739641258&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -303,7 +311,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-657841239&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-739641258&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
